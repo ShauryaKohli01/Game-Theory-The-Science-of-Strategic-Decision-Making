@@ -79,6 +79,8 @@ Game Theory shows that what seems like independent choices are deeply intertwine
 Understanding Game Theory equips individuals and institutions with the foresight to navigate an increasingly interconnected and competitive world.
 
 In-depth article: https://substack.com/home/post/p-170430696
+
+
 LinkedIn: www.linkedin.com/in/shaurya-kohli18
 
 
