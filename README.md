@@ -17,11 +17,11 @@ One of the most iconic applications of game theory occurred during the Cold War 
 
 Imagine this in a payoff matrix (values hypothetical, for illustrative purposes):
 
-If both nations built nuclear weapons (Build, Build), both incurred enormous costs and risks, resulting in a loss of $5 million each.
+1. If both nations built nuclear weapons (Build, Build), both incurred enormous costs and risks, resulting in a loss of $5 million each.
 
-If one nation built weapons while the other did not (Build, Don’t Build), the builder gained strategic dominance (0 for builder, -20 for the non-builder).
+2. If one nation built weapons while the other did not (Build, Don’t Build), the builder gained strategic dominance (0 for builder, -20 for the non-builder).
 
-If neither built (Don’t Build, Don’t Build), both saved costs and risk (0, 0 outcome).
+3. If neither built (Don’t Build, Don’t Build), both saved costs and risk (0, 0 outcome).
 
 The tragedy of this scenario is that although the optimal mutual outcome was for neither to build (peaceful coexistence), both chose to build due to the fear of being at a disadvantage, leading to a sub-optimal outcome. This behavior aligns with the concept of a Nash Equilibrium, where no player benefits by changing their strategy independently, even though the outcome is not the best possible for both.
 
@@ -37,11 +37,11 @@ Scenario:Two suspects are arrested for a crime. They are interrogated separately
 
 Prisoner B: ConfessPrisoner B: Remain SilentPrisoner A: Confess(-5, -5)(0, -10)Prisoner A: Remain Silent(-10, 0)(-1, -1)
 
-If both confess, they receive 5 years each.
+1. If both confess, they receive 5 years each.
 
-If one confesses and the other remains silent, the confessor is freed (0 years), and the silent prisoner gets 10 years.
+2. If one confesses and the other remains silent, the confessor is freed (0 years), and the silent prisoner gets 10 years.
 
-If both remain silent, they receive 1 year each.
+3. If both remain silent, they receive 1 year each.
 
 The dominant strategy for both is to confess, leading to a worse joint outcome (-5, -5), even though mutual cooperation (remain silent) would minimize total punishment (-1, -1).
 
