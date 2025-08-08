@@ -77,3 +77,8 @@ Game Theory elegantly captures the essence of human interaction: the tension bet
 Whether explaining the intense standoff of the US-USSR arms race or the deceptively simple Prisoner's Dilemma, 
 Game Theory shows that what seems like independent choices are deeply intertwined. Its principles continue to shape economics, politics, and even everyday decision-making. 
 Understanding Game Theory equips individuals and institutions with the foresight to navigate an increasingly interconnected and competitive world.
+
+In-depth article: https://substack.com/home/post/p-170430696
+LinkedIn: www.linkedin.com/in/shaurya-kohli18
+
+
